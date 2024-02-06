@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name = 'RenderCore'
-  s.version = '0.30'
+  s.version = '0.31'
   s.license = 'BSD'
   s.summary = 'Base library for ComponentKit'
   s.homepage = 'https://componentkit.org'
