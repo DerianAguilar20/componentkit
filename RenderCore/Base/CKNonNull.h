@@ -11,6 +11,7 @@
 #pragma once
 
 #import <RenderCore/CKDefines.h>
+#import <utility>
 
 #if CK_NOT_SWIFT
 
