@@ -18,7 +18,7 @@
 #import <ComponentKit/CKOverlayLayoutComponent.h>
 #import <ComponentKit/CKLinkable.h>
 
-#import "yoga/Yoga.h"
+#import "Yoga.h"
 
 YGConfigRef _Nonnull ckYogaDefaultConfig();
 
