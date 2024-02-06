@@ -20,7 +20,7 @@
 #import <ComponentKit/CKWritingDirection.h>
 #import <ComponentKit/CKSizeAssert.h>
 
-#import "yoga/Yoga.h"
+#import "Yoga.h"
 
 #import "CKComponent+Yoga.h"
 #import "CKComponentInternal.h"
