@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name = 'ComponentTextKit'
-  s.version = '0.30'
+  s.version = '0.31'
   s.license = 'BSD'
   s.summary = 'Base text library for ComponentKit'
   s.homepage = 'https://componentkit.org'
